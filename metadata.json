@@ -1,0 +1,6 @@
+{
+  "name": "MobilityHire Portal",
+  "description": "Mobility equipment hire platform with public equipment booking catalogue, online payments, and shop admin portal for fleet management and overdue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
